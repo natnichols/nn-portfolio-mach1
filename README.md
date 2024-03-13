@@ -1,5 +1,4 @@
 ### Template Credits:
-- Template Name: Folio
-- Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
+- Template: [Folio](https://bootstrapmade.com/folio-bootstrap-portfolio-template/ "BootstrapMade Folio Template")
 - Author: BootstrapMade.com
 - License: https://bootstrapmade.com/license/
