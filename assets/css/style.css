@@ -856,6 +856,21 @@ p {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.contact-container {
+  display: flex;
+  justify-content: space-between;
+  /* align-content: center; */
+  align-items: center;
+  /* flex-direction: column; */
+}
+
+.download-btn {
+  border-radius: 8px;
+  background: #b8a07e;
+  color: #ffffff;
+  padding: 5px;
+}
+
 #contact {
   height: auto;
   width: 100%;
