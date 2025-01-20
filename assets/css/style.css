@@ -449,6 +449,7 @@ p {
 # Hero
 --------------------------------------------------------------*/
 #hero {
+  /* ! need to adjust here so my head isn't cut off when broswer is full screen */
   background: url("../img/home-bg.jpg") repeat scroll center center/cover;
   height: 100%;
   width: 100%;
